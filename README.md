@@ -42,4 +42,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
 
-Project Link: [https://github.com/mtevfik41/news-grid](https://github.com/mtevfik41/news-grid)
+Project Link: [https://news-grid-app.netlify.app/](https://news-grid-app.netlify.app/)
